@@ -1,16 +1,20 @@
 # Em Goss
 
-## learning stuff
+<!-- Replace this with your name, and include a header. -->
 
-- [ ] checklist
-- [x] checked item
+### The learning continues
 
-1. ordering list
-1. all with number 1
-1. bc html conversion automatically applies count-up numbers
+- [ ] checkboxes
+- [x] checked box
+- [ ] bc why not?
 
-- unordered list
-- is super easy
-- yippee
+1. numbered list
+1. all starting with number 1
+1. but doesn't mattered bc it's translated to html
+1. which marks it as <ol> and assigns its own numbers
 
-Replace this with your name, and include a header.
+
+- unordered lists
+- look like this
+- in VSC, markdown syntax turns blue
+
