@@ -1,4 +1,5 @@
 # Em Goss
+
 <!-- Replace this with your name, and include a header. -->
 
 ### The learning continues
@@ -16,5 +17,4 @@
 - unordered lists
 - look like this
 - in VSC, markdown syntax turns blue
-
 
