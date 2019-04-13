@@ -3,9 +3,9 @@
 
 ### The learning continues
 
-- [] checkboxes
+- [ ] checkboxes
 - [x] checked box
-- [] bc why not?
+- [ ] bc why not?
 
 1. numbered list
 1. all starting with number 1
